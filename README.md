@@ -1,5 +1,5 @@
 # voiceAssist
-Here is a simple web based voice assistant that i've made. It's limited in what it can reply to. 
+Here is a simple web based voice assistant for educational purposes only. It's limited in what it can reply to. 
 
 you can try it:
 https://talkwithme.netlify.app/
